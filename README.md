@@ -47,7 +47,7 @@ This workshop is a chance to use the skills you've developed so far and play wit
 
 1. clone this repo (or fork & clone)
 1. open index.html and app.js
-1. open hangman.js and read it's contents
+1. open hangman.js and read its contents
 
 Most of the game code itself has been given to you.  Let's check it out using dev tools.
 Open index.html and in the browser console try the following:
